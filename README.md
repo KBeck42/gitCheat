@@ -1,2 +1,2 @@
 # Git Cheats
-Cheat sheets for git, GitHub, etc.
+Cheat sheets, links, etc. for some basics of git and GitHub.
